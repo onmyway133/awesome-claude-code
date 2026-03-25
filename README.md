@@ -2,6 +2,8 @@
 
 A hand-picked collection of high-quality tools, plugins, and resources for Claude Code. Every repository listed here has earned 200+ GitHub stars from the developer community.
 
+![](images/banner.png)
+
 ## Contents
 
 - [Performance Champions](#-performance-champions)
