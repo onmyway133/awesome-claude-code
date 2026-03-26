@@ -19,6 +19,9 @@ A hand-picked collection of high-quality tools, plugins, and resources for Claud
 - [External Integrations](#-external-integrations)
 - [Interface Options](#-interface-options)
 - [Learning Resources](#-learning-resources)
+- [Research & Deep Learning](#-research--deep-learning)
+- [Browser Automation](#-browser-automation)
+- [Companion CLI Tools](#-companion-cli-tools)
 
 ---
 
@@ -192,6 +195,47 @@ Official documentation and educational materials from Anthropic.
 | [Claude Code Quickstart](https://docs.anthropic.com/en/docs/claude-code/overview) | Get started in minutes |
 | [Best Practices Guide](https://docs.anthropic.com/en/docs/claude-code/best-practices) | Recommended patterns and workflows |
 | [Tutorials](https://docs.anthropic.com/en/docs/claude-code/tutorials) | Step-by-step guides |
+
+---
+
+## 🔬 Research & Deep Learning
+
+Tools for autonomous research, experimentation, and deep learning workflows that integrate with Claude Code.
+
+| Repository | Stars | Description |
+|------------|-------|-------------|
+| [autoresearch](https://github.com/karpathy/autoresearch) | ![Stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=flat) | Autonomous AI agents that conduct ML research on a single GPU overnight |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ![Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat) | Deep research agent generating comprehensive, cited reports from any data |
+| [kotaemon](https://github.com/Cinnamon/kotaemon) | ![Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat) | Clean RAG UI for chatting with documents using hybrid retrieval |
+| [reader](https://github.com/jina-ai/reader) | ![Stars](https://img.shields.io/github/stars/jina-ai/reader?style=flat) | Convert any URL to LLM-friendly input with a simple prefix |
+
+---
+
+## 🌐 Browser Automation
+
+AI-powered browser control and web automation tools that complement Claude Code workflows.
+
+| Repository | Stars | Description |
+|------------|-------|-------------|
+| [browser-use](https://github.com/browser-use/browser-use) | ![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat) | Make websites accessible for AI agents with natural language control |
+| [stagehand](https://github.com/browserbase/stagehand) | ![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat) | AI browser automation framework combining natural language and code |
+
+---
+
+## 🖥 Companion CLI Tools
+
+Alternative and complementary terminal-based AI coding assistants that work alongside Claude Code.
+
+| Repository | Stars | Description |
+|------------|-------|-------------|
+| [gemini-cli](https://github.com/google-gemini/gemini-cli) | ![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat) | Google's open-source CLI bringing Gemini directly to your terminal |
+| [OpenHands](https://github.com/All-Hands-AI/OpenHands) | ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat) | AI-driven development platform with SDK, CLI, and local GUI |
+| [codex](https://github.com/openai/codex) | ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat) | OpenAI's lightweight coding agent running in your terminal |
+| [aider](https://github.com/aider-ai/aider) | ![Stars](https://img.shields.io/github/stars/aider-ai/aider?style=flat) | AI pair programming in your terminal with Git integration |
+| [continue](https://github.com/continuedev/continue) | ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat) | Source-controlled AI checks enforceable in CI pipelines |
+| [SWE-agent](https://github.com/SWE-agent/SWE-agent) | ![Stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat) | Autonomous agent that fixes GitHub issues using LLMs |
+| [plandex](https://github.com/plandex-ai/plandex) | ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat) | Open-source AI coding agent for large projects with 2M token context |
+| [pr-agent](https://github.com/Codium-ai/pr-agent) | ![Stars](https://img.shields.io/github/stars/Codium-ai/pr-agent?style=flat) | AI-powered code review for GitHub, GitLab, Bitbucket, and Azure DevOps |
 
 ---
 

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(awesome-list-creator)",
+      "WebFetch(domain:github.com)",
+      "WebSearch"
+    ]
+  }
+}
