@@ -97,6 +97,7 @@ Manage and coordinate multiple Claude instances working together. Essential for 
 | [beads](https://github.com/steveyegge/beads) | ![Stars](https://img.shields.io/github/stars/steveyegge/beads?style=flat) | Distributed graph issue tracker with dependency-aware task graphs for AI agents |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | ![Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat) | Kanban-style orchestration supporting 10+ coding agents |
 | [claude-squad](https://github.com/smtg-ai/claude-squad) | ![Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=flat) | Manage multiple AI terminal agents simultaneously |
+| [ralph](https://github.com/snarktank/ralph) | ![Stars](https://img.shields.io/github/stars/snarktank/ralph?style=flat) | Autonomous AI agent loop that runs repeatedly until all items in a PRD are completed |
 
 ---
 
