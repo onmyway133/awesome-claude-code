@@ -98,6 +98,7 @@ Manage and coordinate multiple Claude instances working together. Essential for 
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | ![Stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat) | Kanban-style orchestration supporting 10+ coding agents |
 | [claude-squad](https://github.com/smtg-ai/claude-squad) | ![Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=flat) | Manage multiple AI terminal agents simultaneously |
 | [ralph](https://github.com/snarktank/ralph) | ![Stars](https://img.shields.io/github/stars/snarktank/ralph?style=flat) | Autonomous AI agent loop that runs repeatedly until all items in a PRD are completed |
+| [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | ![Stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat) | Open-source platform that coordinates a team of AI agents (including Claude Code) to run business operations autonomously with dashboards, budgets, and governance |
 
 ---
 
