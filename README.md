@@ -12,6 +12,7 @@ A hand-picked collection of high-quality tools, plugins, and resources for Claud
 - [Applications & Utilities](#-applications--utilities)
 - [Memory & Context](#-memory--context)
 - [Multi-Agent Orchestration](#-multi-agent-orchestration)
+- [Terminal Apps](#-terminal-apps)
 - [Terminal Displays](#-terminal-displays)
 - [Event Automation](#-event-automation)
 - [Quick Actions](#-quick-actions)
@@ -102,6 +103,16 @@ Manage and coordinate multiple Claude instances working together. Essential for 
 
 ---
 
+## 🖥️ Terminal Apps
+
+Native terminal emulators built with AI coding agents in mind. These go beyond basic terminal emulation with multi-pane layouts, notification systems, and agent-aware tooling.
+
+| Repository | Stars | Description |
+|------------|-------|-------------|
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ![Stars](https://img.shields.io/github/stars/manaflow-ai/cmux?style=flat) | Native macOS terminal built on libghostty with vertical tabs, notification rings, split panes, and an embedded scriptable browser for multi-agent workflows |
+
+---
+
 ## 📊 Terminal Displays
 
 Customize your terminal with real-time Claude Code information. Track tokens, costs, and git status at a glance.
@@ -184,6 +195,7 @@ Alternative ways to interact with Claude Code beyond the terminal. Desktop apps,
 | Repository | Stars | Description |
 |------------|-------|-------------|
 | [cherry-studio](https://github.com/CherryHQ/cherry-studio) | ![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat) | Feature-rich desktop GUI with session management |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | ![Stars](https://img.shields.io/github/stars/superset-sh/superset?style=flat) | Code editor built for running multiple Claude Code, Codex, and other AI agents in parallel using git worktrees |
 
 ---
 
