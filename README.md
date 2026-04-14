@@ -16,6 +16,7 @@ A hand-picked collection of high-quality tools, plugins, and resources for Claud
 - [Terminal Displays](#-terminal-displays)
 - [Event Automation](#-event-automation)
 - [Quick Actions](#-quick-actions)
+- [Agent Skills](#-agent-skills)
 - [Project Configurations](#-project-configurations)
 - [External Integrations](#-external-integrations)
 - [Interface Options](#-interface-options)
@@ -63,7 +64,6 @@ Structured approaches and workflows that guide Claude through complex developmen
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
-| [superpowers](https://github.com/obra/superpowers) | ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat) | Agentic skills framework and software development methodology that works |
 | [awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | ![Stars](https://img.shields.io/github/stars/rohitg00/awesome-claude-code-toolkit?style=flat) | 135 agents, 42 commands, 150+ plugins, 19 hooks, and 7 templates |
 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat) | Proven practices for effective Claude Code sessions |
 
@@ -154,13 +154,24 @@ Slash commands for rapid task execution. Type a command and let Claude handle th
 
 ---
 
+## 🎯 Agent Skills
+
+Reusable skill packs and CLAUDE.md configurations that extend Claude's capabilities. Drop these into your project to unlock specialized behaviors.
+
+| Repository | Stars | Description |
+|------------|-------|-------------|
+| [agent-skills](https://github.com/vercel-labs/agent-skills) | ![Stars](https://img.shields.io/github/stars/vercel-labs/agent-skills?style=flat) | Vercel's official collection of agent skills, also available at skills.sh |
+| [superpowers](https://github.com/obra/superpowers) | ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat) | Agentic skills framework with a proven software development methodology |
+| [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Stars](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=flat) | Single CLAUDE.md distilling Andrej Karpathy's observations on LLM coding pitfalls into actionable rules |
+
+---
+
 ## 📂 Project Configurations
 
 CLAUDE.md templates providing project-specific guidance. Help Claude understand your codebase conventions.
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
-| [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Stars](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=flat) | Single CLAUDE.md distilling Andrej Karpathy's observations on LLM coding pitfalls into actionable rules |
 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat) | Proven practices for effective Claude Code sessions |
 | [awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) | ![Stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code?style=flat) | Tools, IDE integrations, and frameworks |
 
@@ -234,6 +245,7 @@ AI-powered browser control and web automation tools that complement Claude Code 
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
+| [agent-browser](https://github.com/vercel-labs/agent-browser) | ![Stars](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat) | Browser automation CLI built specifically for AI agents |
 | [browser-use](https://github.com/browser-use/browser-use) | ![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat) | Make websites accessible for AI agents with natural language control |
 | [stagehand](https://github.com/browserbase/stagehand) | ![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat) | AI browser automation framework combining natural language and code |
 
