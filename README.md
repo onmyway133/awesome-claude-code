@@ -32,6 +32,7 @@ The most starred repositories in the Claude Code ecosystem. These projects have 
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
+| [caveman](https://github.com/JuliusBrussee/caveman) | ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat) | Claude Code skill that cuts 65% of tokens by making Claude respond in minimal caveman-style language |
 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat) | Complete optimization system with 28 agents, 125 skills, and 60+ commands for peak performance |
 | [claude-code](https://github.com/anthropics/claude-code) | ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat) | The official CLI from Anthropic that powers agentic coding in your terminal |
 | [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | ![Stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills?style=flat) | Massive collection of community skills for extending Claude capabilities |
@@ -159,6 +160,7 @@ CLAUDE.md templates providing project-specific guidance. Help Claude understand 
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
+| [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Stars](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=flat) | Single CLAUDE.md distilling Andrej Karpathy's observations on LLM coding pitfalls into actionable rules |
 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat) | Proven practices for effective Claude Code sessions |
 | [awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) | ![Stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code?style=flat) | Tools, IDE integrations, and frameworks |
 
