@@ -62,6 +62,7 @@ Structured approaches and workflows that guide Claude through complex developmen
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
+| [superpowers](https://github.com/obra/superpowers) | ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat) | Agentic skills framework and software development methodology that works |
 | [awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | ![Stars](https://img.shields.io/github/stars/rohitg00/awesome-claude-code-toolkit?style=flat) | 135 agents, 42 commands, 150+ plugins, 19 hooks, and 7 templates |
 | [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat) | Proven practices for effective Claude Code sessions |
 
@@ -242,6 +243,7 @@ Alternative and complementary terminal-based AI coding assistants that work alon
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
+| [repomix](https://github.com/yamadashy/repomix) | ![Stars](https://img.shields.io/github/stars/yamadashy/repomix?style=flat) | Packs your entire repository into a single AI-friendly file for feeding to Claude, ChatGPT, Gemini, and other LLMs |
 | [gemini-cli](https://github.com/google-gemini/gemini-cli) | ![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat) | Google's open-source CLI bringing Gemini directly to your terminal |
 | [OpenHands](https://github.com/All-Hands-AI/OpenHands) | ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat) | AI-driven development platform with SDK, CLI, and local GUI |
 | [codex](https://github.com/openai/codex) | ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat) | OpenAI's lightweight coding agent running in your terminal |
