@@ -190,8 +190,14 @@ MCP servers connecting Claude Code to external services. Extend capabilities wit
 | Repository | Stars | Description |
 |------------|-------|-------------|
 | [claude-code-mcp](https://github.com/steipete/claude-code-mcp) | ![Stars](https://img.shields.io/github/stars/steipete/claude-code-mcp?style=flat) | Run Claude Code in one-shot mode with automatic permission handling |
+| [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | ![Stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat) | MCP server that feeds Figma layout data directly to AI coding agents |
+| [mcp-server-guide](https://github.com/figma/mcp-server-guide) | ![Stars](https://img.shields.io/github/stars/figma/mcp-server-guide?style=flat) | Official Figma guide for setting up and using their MCP server |
 | [n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | ![Stars](https://img.shields.io/github/stars/czlonkowski/n8n-mcp?style=flat) | Access to n8n's 1,239 workflow automation nodes |
 | [claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | ![Stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat) | Official Anthropic-managed plugin directory |
+
+**Figma Design Resources:**
+
+- [Figma Community Skills](https://www.figma.com/community/skills) — Browse Claude Code skills built for Figma design workflows
 
 **Pre-configured Stacks:**
 
