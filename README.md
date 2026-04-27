@@ -33,6 +33,7 @@ The most starred repositories in the Claude Code ecosystem. These projects have 
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
+| [rtk](https://github.com/rtk-ai/rtk) | ![Stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat) | High-performance CLI proxy that reduces LLM token consumption by 60-90% on developer commands, shipped as a single Rust binary |
 | [caveman](https://github.com/JuliusBrussee/caveman) | ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat) | Claude Code skill that cuts 65% of tokens by making Claude respond in minimal caveman-style language |
 | [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat) | Complete optimization system with 28 agents, 125 skills, and 60+ commands for peak performance |
 | [claude-code](https://github.com/anthropics/claude-code) | ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat) | The official CLI from Anthropic that powers agentic coding in your terminal |
