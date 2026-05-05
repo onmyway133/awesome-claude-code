@@ -161,6 +161,7 @@ Reusable skill packs and CLAUDE.md configurations that extend Claude's capabilit
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
+| [graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify?style=flat) | Skill for Claude Code and other AI assistants that turns any codebase, SQL schemas, docs, or scripts into a queryable knowledge graph |
 | [agent-skills](https://github.com/vercel-labs/agent-skills) | ![Stars](https://img.shields.io/github/stars/vercel-labs/agent-skills?style=flat) | Vercel's official collection of agent skills, also available at skills.sh |
 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat) | AI skill providing design intelligence for building professional UI/UX across multiple platforms |
 | [superpowers](https://github.com/obra/superpowers) | ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat) | Agentic skills framework with a proven software development methodology |
