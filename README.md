@@ -244,6 +244,7 @@ Tools for autonomous research, experimentation, and deep learning workflows that
 | [autoresearch](https://github.com/karpathy/autoresearch) | ![Stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=flat) | Autonomous AI agents that conduct ML research on a single GPU overnight |
 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ![Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=flat) | Deep research agent generating comprehensive, cited reports from any data |
 | [kotaemon](https://github.com/Cinnamon/kotaemon) | ![Stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat) | Clean RAG UI for chatting with documents using hybrid retrieval |
+| [lightrag](https://github.com/hkuds/lightrag) | ![Stars](https://img.shields.io/github/stars/hkuds/lightrag?style=flat) | RAG framework combining knowledge graphs and vector search for significantly better retrieval than standard RAG |
 | [reader](https://github.com/jina-ai/reader) | ![Stars](https://img.shields.io/github/stars/jina-ai/reader?style=flat) | Convert any URL to LLM-friendly input with a simple prefix |
 
 ---
