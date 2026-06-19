@@ -167,6 +167,7 @@ Reusable skill packs and CLAUDE.md configurations that extend Claude's capabilit
 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat) | AI skill providing design intelligence for building professional UI/UX across multiple platforms |
 | [superpowers](https://github.com/obra/superpowers) | ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat) | Agentic skills framework with a proven software development methodology |
 | [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Stars](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=flat) | Single CLAUDE.md distilling Andrej Karpathy's observations on LLM coding pitfalls into actionable rules |
+| [NotFair](https://github.com/nowork-studio/NotFair) | ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat) | Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 
 ---
 
