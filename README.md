@@ -88,6 +88,7 @@ Tools for persisting knowledge across sessions. These help Claude remember previ
 | Repository | Stars | Description |
 |------------|-------|-------------|
 | [claude-mem](https://github.com/thedotmack/claude-mem) | ![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat) | Auto-captures sessions and compresses context with AI for future use |
+| [context-mode](https://github.com/mksglu/context-mode) | ![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat) | Cuts context window usage by sandboxing tool output and keeping session memory across 17 coding platforms |
 
 ---
 
