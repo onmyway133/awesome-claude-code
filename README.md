@@ -168,7 +168,7 @@ Reusable skill packs and CLAUDE.md configurations that extend Claude's capabilit
 | [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | ![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat) | AI skill providing design intelligence for building professional UI/UX across multiple platforms |
 | [superpowers](https://github.com/obra/superpowers) | ![Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat) | Agentic skills framework with a proven software development methodology |
 | [andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![Stars](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=flat) | Single CLAUDE.md distilling Andrej Karpathy's observations on LLM coding pitfalls into actionable rules |
-| [agent-skills]([https://github.com/forrestchang/andrej-karpathy-skills](https://github.com/addyosmani/agent-skills)) | ![Stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat) | Production-grade engineering skills for AI coding agents |
+| [agent-skills](https://github.com/addyosmani/agent-skills) | ![Stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat) | Production-grade engineering skills for AI coding agents |
 
 ---
 
