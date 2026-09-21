@@ -279,6 +279,7 @@ Alternative and complementary terminal-based AI coding assistants that work alon
 | [SWE-agent](https://github.com/SWE-agent/SWE-agent) | ![Stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat) | Autonomous agent that fixes GitHub issues using LLMs |
 | [plandex](https://github.com/plandex-ai/plandex) | ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat) | Open-source AI coding agent for large projects with 2M token context |
 | [pr-agent](https://github.com/Codium-ai/pr-agent) | ![Stars](https://img.shields.io/github/stars/Codium-ai/pr-agent?style=flat) | AI-powered code review for GitHub, GitLab, Bitbucket, and Azure DevOps |
+| [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) | ![Stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=flat) | Records a Claude Code run below the harness and replays it offline with no model called, or forks it from a checkpoint onto another model |
 
 ---
 
