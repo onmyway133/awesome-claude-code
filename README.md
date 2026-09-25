@@ -78,6 +78,7 @@ Standalone tools and applications built on top of Claude Code. These extend func
 |------------|-------|-------------|
 | [ccusage](https://github.com/ryoppippi/ccusage) | ![Stars](https://img.shields.io/github/stars/ryoppippi/ccusage?style=flat) | Offline CLI analyzing your Claude Code usage from local files |
 | [claude-squad](https://github.com/smtg-ai/claude-squad) | ![Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=flat) | Manage multiple AI terminal agents including Aider and Codex |
+| [superagent-desktop](https://github.com/pungme/superagent-desktop) | ![Stars](https://img.shields.io/github/stars/pungme/superagent-desktop?style=flat) | macOS desktop app giving Claude Code a real browser to drive, an iOS Simulator, and a phone companion app for remote monitoring |
 
 ---
 
