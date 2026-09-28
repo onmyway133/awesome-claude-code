@@ -3,6 +3,7 @@
 A hand-picked collection of high-quality tools, plugins, and resources for Claude Code. Every repository listed here has earned 200+ GitHub stars from the developer community.
 
 ![](images/banner.png)
+| [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) | ![Stars](https://img.shields.io/github/stars/usenetstate/statsnet-mcp?style=flat) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 
 ## Contents
 
